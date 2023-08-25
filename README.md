@@ -1,0 +1,2 @@
+# 42Cursus
+Ana Eğitim
