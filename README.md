@@ -41,9 +41,9 @@ The 42 Cursus offers a deep dive into the world of software development, challen
 - **Components**: `get_next_line.c`, `get_next_line_utils.c`.
 
 ### [net_practice](net_practice/)
-- **Overview**: A web development project with multiple HTML/CSS components.
-- **Key Concepts**: Web design, HTML5, CSS3.
-- **Components**: `index.html`, `level1.html`, `style.css`, and more.
+- **Overview**: Practical application for in-depth learning of networks and subnetworks.
+- **Key Concepts**: Networks, subnetworks, routing table.
+- **Components**: `index.html`, `level1.json`, and more.
 
 ## 🚀 Key Features
 - **Diverse Challenges**: Each project targets specific programming skills and concepts.
