@@ -124,25 +124,25 @@
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
   <a href="Libft/README.md">
-    <img src="https://img.shields.io/badge/Libft-Kişisel%20C%20Kütüphanesi-1F425F?style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/Libft-Kişisel%20C%20Kütüphanesi-1F425F?style=for-the-badge&logo=c&logoColor=white" alt="Libft" />
   </a>
   <a href="get-next-line/README.md">
-    <img src="https://img.shields.io/badge/get__next__line-Satır%20Satır%20Okuma-4B32C3?style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/get__next__line-Satır%20Satır%20Okuma-4B32C3?style=for-the-badge&logo=c&logoColor=white" alt="get_next_line" />
   </a>
   <a href="ft-printf/README.md">
-    <img src="https://img.shields.io/badge/ft__printf-Yazdırma%20Fonksiyonu-00599C?style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/ft__printf-Yazdırma%20Fonksiyonu-00599C?style=for-the-badge&logo=c&logoColor=white" alt="ft_printf" />
   </a>
   <a href="Born2beroot/README.md">
-    <img src="https://img.shields.io/badge/Born2beroot-Sistem%20Yönetimi-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/Born2beroot-Sistem%20Yönetimi-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Born2beroot" />
   </a>
   <a href="Minitalk/README.md">
-    <img src="https://img.shields.io/badge/Minitalk-Sinyal%20İletişimi-FF9E0F?style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/Minitalk-Sinyal%20İletişimi-FF9E0F?style=for-the-badge&logo=c&logoColor=white" alt="Minitalk" />
   </a>
   <a href="Push-swap/README.md">
-    <img src="https://img.shields.io/badge/Push--swap-Sıralama%20Algoritmaları-277A9F?style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/Push--swap-Sıralama%20Algoritmaları-277A9F?style=for-the-badge&logo=c&logoColor=white" alt="Push-swap" />
   </a>
   <a href="net_practice/README.md">
-    <img src="https://img.shields.io/badge/NetPractice-Ağ%20Yapılandırması-3C7EBB?style=for-the-badge&logo=cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/NetPractice-Ağ%20Yapılandırması-3C7EBB?style=for-the-badge&logo=cisco&logoColor=white" alt="NetPractice" />
   </a>
 </div>
 
