@@ -1,66 +1,253 @@
+# <div align="center">🚀 42 Cursus | Programlama Yolculuğum</div>
 
-# 42 Cursus Projects - A Coding Odyssey 🚀
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=200&section=header&text=42%20Cursus&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="42 Cursus" />
+</div>
 
-![42 Cursus Banner](https://source.unsplash.com/featured/?coding,computer) <!-- Coding Image -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=0891B2&center=true&vCenter=true&width=450&lines=C+Programlama;Unix+ve+Linux;Algoritmalar;Veri+Yap%C4%B1lar%C4%B1;A%C4%9F+Y%C3%B6netimi;Sistem+Y%C3%B6netimi" alt="Typing SVG" />
+</p>
 
-Welcome to the 42 Cursus Projects Repository! This space is dedicated to showcasing the projects and challenges I tackled during my journey at 42. From foundational programming concepts to complex algorithms, each project here reflects a step forward in my coding adventure.
+<div align="center">
+  <a href="https://github.com/eabaci42/42Cursus">
+    <img src="https://img.shields.io/badge/GitHub-42Cursus-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.42istanbul.com.tr/">
+    <img src="https://img.shields.io/badge/Okul-42%20%C4%B0stanbul-0055FF?style=for-the-badge&logo=42&logoColor=white" />
+  </a>
+  <a href="mailto:ertugrul@atikrost.com">
+    <img src="https://img.shields.io/badge/Email-ertugrul@atikrost.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
-## 🌟 Project Overview
-The 42 Cursus offers a deep dive into the world of software development, challenging students with increasingly complex programming tasks. This repository contains my solutions to these challenges, demonstrating my growth as a software engineer.
+## <div align="center">💡 Proje Hakkında</div>
 
-## 🗂 Repository Structure
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding" width="300" />
+</div>
 
-### [Born2beroot](Born2beroot/)
-- **Overview**: An exploration into system administration and networking.
-- **Key Concepts**: Virtualization, network configuration, shell scripting.
-- **`signature.txt`**: A unique signature file for system identification.
+<p align="center">
+  <b>42 Cursus</b>, yazılım ve bilgisayar bilimleri alanında derinlemesine bilgi ve deneyim kazandıran, akran değerlendirme metodolojisi ile öne çıkan bir eğitim programıdır. Bu repo, 42 İstanbul'daki eğitim sürecim boyunca geliştirdiğim projeleri ve çözümleri içermektedir.
+</p>
 
-### [Libft](Libft/)
-- **Overview**: Building a personal C library of standard functions.
-- **Key Concepts**: Memory management, string manipulation, data structures.
-- **Key Files**: `ft_atoi.c`, `ft_lstmap.c`, `ft_memcpy.c`, and more.
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>🚀 Akran Öğrenimi</h3>
+        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
+        <p><b>"En iyi öğrenme yöntemi, başkalarına öğretmektir."</b></p>
+        <p>42'nin akran değerlendirme sistemi, öğrencilerin birbirlerinden öğrenmesini ve bilgiyi pekiştirmesini sağlar.</p>
+      </td>
+      <td width="50%" align="center">
+        <h3>💪 Zorlukla Gelişim</h3>
+        <img src="https://media.giphy.com/media/l0HlMldqhsZcg/giphy.gif" width="100%" />
+        <p><b>"Zorluklar, en büyük öğretmenlerdir."</b></p>
+        <p>42'nin "derin suya at" yaklaşımı, öğrencilerin problem çözme becerilerini geliştirerek kendi kendine öğrenme yeteneğini güçlendirir.</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### [Minitalk](Minitalk/)
-- **Overview**: A communication program using UNIX signals.
-- **Key Concepts**: Signal handling, client-server architecture.
-- **Components**: `client.c`, `server.c`.
+## <div align="center">📂 Projeler ve İlerleme</div>
 
-### [Push-swap](Push-swap/)
-- **Overview**: An algorithmic challenge to sort data with limited operations.
-- **Key Concepts**: Sorting algorithms, efficiency optimization.
-- **Components**: Sorting functions and checker program.
+<div align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Progress" width="300" />
+</div>
 
-### [ft-printf](ft-printf/)
-- **Overview**: Recreating the `printf` function from the C Standard Library.
-- **Key Concepts**: Variadic functions, string formatting, custom conversions.
-- **Components**: `ft_printf.c`, `printf_utils.c`.
+<p align="center">
+  42 Cursus'taki ilerleyişim ve tamamladığım projeler:
+</p>
 
-### [get-next-line](get-next-line/)
-- **Overview**: A function to read content line by line from a file descriptor.
-- **Key Concepts**: Static variables, buffer management.
-- **Components**: `get_next_line.c`, `get_next_line_utils.c`.
+<div align="center">
+  <table>
+    <tr>
+      <th>Proje Adı</th>
+      <th>Açıklama</th>
+      <th>Kullanılan Teknolojiler</th>
+      <th>Durum</th>
+      <th>Not</th>
+    </tr>
+    <tr>
+      <td><a href="Libft/README.md">Libft</a></td>
+      <td>C Standart Kütüphanesi'nin bazı fonksiyonlarını yeniden yazarak kişisel bir kütüphane oluşturma</td>
+      <td>C, Makefile</td>
+      <td>✅ Tamamlandı</td>
+      <td>125/100</td>
+    </tr>
+    <tr>
+      <td><a href="get-next-line/README.md">get_next_line</a></td>
+      <td>Bir dosyadan satır satır okuma yapan fonksiyon geliştirme</td>
+      <td>C, Dosya İşlemleri</td>
+      <td>✅ Tamamlandı</td>
+      <td>125/100</td>
+    </tr>
+    <tr>
+      <td><a href="ft-printf/README.md">ft_printf</a></td>
+      <td>C Standart Kütüphanesi'ndeki printf fonksiyonunu yeniden oluşturma</td>
+      <td>C, Variadic Functions</td>
+      <td>✅ Tamamlandı</td>
+      <td>100/100</td>
+    </tr>
+    <tr>
+      <td><a href="Born2beroot/README.md">Born2beroot</a></td>
+      <td>Sanal makine üzerinde sistem yönetimi ve güvenlik yapılandırması</td>
+      <td>Linux, Bash, VM</td>
+      <td>✅ Tamamlandı</td>
+      <td>110/100</td>
+    </tr>
+    <tr>
+      <td><a href="Minitalk/README.md">Minitalk</a></td>
+      <td>UNIX sinyalleri kullanarak işlemler arası iletişim</td>
+      <td>C, UNIX Sinyalleri</td>
+      <td>✅ Tamamlandı</td>
+      <td>125/100</td>
+    </tr>
+    <tr>
+      <td><a href="Push-swap/README.md">Push-swap</a></td>
+      <td>Kısıtlı operasyonlarla veri sıralama algoritmalarının uygulanması</td>
+      <td>C, Algoritmalar</td>
+      <td>✅ Tamamlandı</td>
+      <td>125/100</td>
+    </tr>
+    <tr>
+      <td><a href="net_practice/README.md">NetPractice</a></td>
+      <td>Ağ yapılandırması ve TCP/IP protokollerinin anlaşılması</td>
+      <td>Ağ, IP, TCP/IP</td>
+      <td>✅ Tamamlandı</td>
+      <td>100/100</td>
+    </tr>
+  </table>
+</div>
 
-### [net_practice](net_practice/)
-- **Overview**: Practical application for in-depth learning of networks and subnetworks.
-- **Key Concepts**: Networks, subnetworks, routing table.
-- **Components**: `index.html`, `level1.json`, and more.
+## <div align="center">🛠️ Proje Detayları</div>
 
-## 🚀 Key Features
-- **Diverse Challenges**: Each project targets specific programming skills and concepts.
-- **Hands-On Learning**: Practical application of theoretical knowledge.
-- **Creative Solutions**: Unique approaches to complex problems.
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
+  <a href="Libft/README.md">
+    <img src="https://img.shields.io/badge/Libft-Kişisel%20C%20Kütüphanesi-1F425F?style=for-the-badge&logo=c&logoColor=white" />
+  </a>
+  <a href="get-next-line/README.md">
+    <img src="https://img.shields.io/badge/get__next__line-Satır%20Satır%20Okuma-4B32C3?style=for-the-badge&logo=c&logoColor=white" />
+  </a>
+  <a href="ft-printf/README.md">
+    <img src="https://img.shields.io/badge/ft__printf-Yazdırma%20Fonksiyonu-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  </a>
+  <a href="Born2beroot/README.md">
+    <img src="https://img.shields.io/badge/Born2beroot-Sistem%20Yönetimi-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  </a>
+  <a href="Minitalk/README.md">
+    <img src="https://img.shields.io/badge/Minitalk-Sinyal%20İletişimi-FF9E0F?style=for-the-badge&logo=c&logoColor=white" />
+  </a>
+  <a href="Push-swap/README.md">
+    <img src="https://img.shields.io/badge/Push--swap-Sıralama%20Algoritmaları-277A9F?style=for-the-badge&logo=c&logoColor=white" />
+  </a>
+  <a href="net_practice/README.md">
+    <img src="https://img.shields.io/badge/NetPractice-Ağ%20Yapılandırması-3C7EBB?style=for-the-badge&logo=cisco&logoColor=white" />
+  </a>
+</div>
 
-## 🛠 Installation & Setup
-Each project folder contains specific setup instructions. Generally, clone the repository and navigate to the desired project directory to get started.
+## <div align="center">🧩 Proje Kazanımları</div>
 
-## 📸 Project Snapshots
-![Coding Snapshot](https://source.unsplash.com/featured/?programming) <!-- Project Image -->
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <h3>🧠 Teknik Beceriler</h3>
+        <ul>
+          <li>C programlama dilinin derinlemesine kullanımı</li>
+          <li>Veri yapıları ve algoritmalar</li>
+          <li>Bellek yönetimi ve optimizasyon</li>
+          <li>UNIX/Linux sistem programlama</li>
+          <li>Ağ ve sistem yapılandırması</li>
+          <li>Bash betik programlama</li>
+          <li>Güvenlik ve erişim yönetimi</li>
+        </ul>
+      </td>
+      <td>
+        <h3>🌱 Kişisel Gelişim</h3>
+        <ul>
+          <li>Problem çözme ve analitik düşünme</li>
+          <li>Kendi kendine öğrenme disiplini</li>
+          <li>Dokümantasyon okuma ve anlama</li>
+          <li>Zaman yönetimi ve organizasyon</li>
+          <li>Kod inceleme ve kalite değerlendirme</li>
+          <li>İşbirliği ve akran iletişimi</li>
+          <li>Teknik sunumlar ve savunma</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
-## 🌐 Connect with Me
-Join me on my coding journey at 42:
-- [GitHub Repository](https://github.com/eabaci42/42Cursus)
-- [Reach Out for Collaborations](mailto:ertugrul@atikrost.com)
+## <div align="center">📝 Manifesto</div>
 
----
+<blockquote align="center" style="background-color: #1e1e3f; padding: 15px; border-radius: 5px; border-left: 5px solid #0891b2; margin-top: 20px;">
+  <p>💡 <b>"42, sadece kod yazmayı değil, problemleri çözmeyi ve öğrenmeyi öğrenmeyi öğretir."</b></p>
+  <p><i>42 Cursus sürecinde edindiğim temel prensipler:</i></p>
+  <ol>
+    <li>Sorunları küçük, yönetilebilir parçalara bölmek</li>
+    <li>Dokümantasyonu okumayı ve anlamayı bir alışkanlık haline getirmek</li>
+    <li>Altta yatan mekanizmaları ve "neden" sorusunu sürekli sorgulamak</li>
+    <li>Temiz, okunabilir ve sürdürülebilir kod yazmaya özen göstermek</li>
+    <li>Hataları bir öğrenme fırsatı olarak görmek ve sabırla çözmek</li>
+    <li>Bilgiyi paylaşmanın ve başkalarına öğretmenin değerini kabul etmek</li>
+    <li>Sürekli öğrenme ve kendini geliştirme alışkanlığı edinmek</li>
+  </ol>
+</blockquote>
 
-⚡ "Embracing challenges, learning daily, and growing consistently in the world of coding."
+## <div align="center">⚡️ Gelecek Projeler</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <th>Proje Adı</th>
+      <th>Açıklama</th>
+      <th>Teknolojiler</th>
+      <th>Durum</th>
+    </tr>
+    <tr>
+      <td>Philosophers</td>
+      <td>Çoklu iş parçacığı ve süreç senkronizasyonu</td>
+      <td>C, Threads, Mutexes</td>
+      <td>🔜 Planlanan</td>
+    </tr>
+    <tr>
+      <td>MiniShell</td>
+      <td>Basit bir komut satırı yorumlayıcısı oluşturma</td>
+      <td>C, UNIX, Process</td>
+      <td>🔜 Planlanan</td>
+    </tr>
+    <tr>
+      <td>Cub3D</td>
+      <td>Ray casting ile 3D grafik motoru geliştirme</td>
+      <td>C, Computer Graphics</td>
+      <td>🔜 Planlanan</td>
+    </tr>
+  </table>
+</div>
+
+## <div align="center">📞 İletişim</div>
+
+<div align="center">
+  <a href="mailto:ertugrul@atikrost.com">
+    <img src="https://img.shields.io/badge/Email-ertugrul@atikrost.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/eabaci42">
+    <img src="https://img.shields.io/badge/LinkedIn-eabaci42-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/eabaci42">
+    <img src="https://img.shields.io/badge/GitHub-eabaci42-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eabaci42&theme=tokyonight" alt="Github Profil İstatistikleri" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=150&section=footer&fontSize=30"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=0891b2&center=true&vCenter=true&width=500&lines=Kodu+anla%2C+%C3%A7%C3%B6z%C3%BCm%C3%BC+bul...;%C3%96%C4%9Frenmeyi+%C3%B6%C4%9Fren%2C+hayat+boyu+geli%C5%9F...;Tek+ba%C5%9F%C4%B1na+h%C4%B1zl%C4%B1%2C+birlikte+daha+uzak..." alt="Slogan" />
+</div>
